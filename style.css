@@ -1,0 +1,50 @@
+
+body{
+    background-color: aqua;
+}
+
+#buttons{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    background-color: darkcyan;
+}
+
+#vomit{
+    background-color: white;
+    transition-duration: 0.3s;
+}
+
+#vomit:hover{
+    background-color: darkgreen;
+}
+
+#laugh-cough{
+    background-color: white;
+    transition-duration: 0.3s;
+}
+
+#laugh-cough:hover{
+    background-color: yellowgreen;
+}
+
+#virus-sound{
+    background-color: white;
+    transition-duration: 0.3s;
+}
+
+#virus-sound:hover{
+    background-color: blue;
+}
+
+button{
+    margin: auto;
+    font-size: 20px;
+}
+
+button:hover{
+    font-size: 25px;
+}
+
